@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository explains how to analyze Japanese texts by J-LIWC2015. J-LIWC2015 is a Japanese-translated version of the LIWC2015 dictionary (Pennebaker, Booth, Jordan, & Blackburn, 2015). Psychometric properties of the J-LIWC2015 dictionary are introduced in [Igarashi, Okuda, & Sasahara (2021)](https://doi.org/10.31234/osf.io/5hq7d).
+This repository explains how to analyze Japanese texts by J-LIWC2015. J-LIWC2015 is a Japanese-translated version of the LIWC2015 dictionary (Pennebaker, Booth, Jordan, & Blackburn, 2015). Psychometric properties of the J-LIWC2015 dictionary are introduced in [Igarashi, Okuda, & Sasahara (2022)](https://doi.org/10.3389/fpsyg.2022.841534).
 
 Unlike English, there is no word boundary in a sentence in Japanese. It is mandatory for natural language processing to segment a Japanese text document into words before the main analysis. This repository provides basic instructions for using J-LIWC2015 and sample scripts for preprocessing texts for word segmentation.
 
@@ -49,7 +49,7 @@ Any request for the distribution of the dictionary file (J-LIWC2015.dic) is not 
 
 ## Reference
 
-Igarashi, T., Okuda, S., & Sasahara, K. (2021, August 28). Development of the Japanese Version of the Linguistic Inquiry and Word Count Dictionary 2015 (J-LIWC2015). [https://doi.org/10.31234/osf.io/5hq7d](https://doi.org/10.31234/osf.io/5hq7d)
+Igarashi, T., Okuda, S., & Sasahara, K. (2022). Development of the Japanese Version of the Linguistic Inquiry and Word Count Dictionary 2015. Frontiers in Psychology, 13:841534. [https://doi.org/10.3389/fpsyg.2022.841534](https://doi.org/10.3389/fpsyg.2022.841534)
 
 ## Licence
 
