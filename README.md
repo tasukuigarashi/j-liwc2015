@@ -27,7 +27,7 @@ Sample scripts are available at Google Colab.
 
 ### Standard analysis: Python + LIWC software
 
-- Colab: [Preprocessing and postprocessing](https://colab.research.google.com/drive/1iMm0ZvVZttJ9PzYdSUiBjtIXL7_gZEC3) (by [@soramame0518](https://github.com/soramame0518) and [@okudashi](https://github.com/okudashi))
+-  Python (Colab): [Preprocessing and postprocessing](https://colab.research.google.com/drive/1iMm0ZvVZttJ9PzYdSUiBjtIXL7_gZEC3) (by [@soramame0518](https://github.com/soramame0518) and [@okudashi](https://github.com/okudashi))
 
 1. Preprocessing: Analyze a Japanese text (e.g., `sample.txt`) by MeCab/IPADIC with `user_dict.dic` in Python. In the example in Colab, two output files are generated:
    - `wakachi.txt`: word segmentation output
